@@ -3,8 +3,8 @@ title: Chirag Kantharia
 email: chyrag[at]yahoo[dot]com
 description: There ain't place like 127.0.0.1
 baseurl: ""
-#url: "http://localhost:4000"
-url: "http://139.59.56.19:4000"
+url: "http://localhost:4000"
+#url: "http://139.59.56.19:4000"
 
 # Build Settings
 markdown: kramdown
